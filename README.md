@@ -1,2 +1,1 @@
-Railsintaller_demo
-==================
+: first application
